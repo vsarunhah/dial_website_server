@@ -1,0 +1,2307 @@
+{
+  "count": 218716,
+  "entities": [
+    {
+      "uuid": "4330106a-a1f5-2edb-c71e-ff03738d0b54",
+      "properties": {
+        "num_investments_funding_rounds": 465,
+        "identifier": {
+          "permalink": "skydeck-berkeley",
+          "image_id": "djvwxkyw19vlfhs97vp9",
+          "uuid": "4330106a-a1f5-2edb-c71e-ff03738d0b54",
+          "entity_def_id": "organization",
+          "value": "Berkeley SkyDeck"
+        },
+        "investor_stage": [
+          "non_equity_assistance",
+          "seed"
+        ],
+        "rank_principal_investor": 4322,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "incubators",
+            "uuid": "99dcb039-c672-885e-6290-e0c72667e1f0",
+            "value": "Incubators"
+          }
+        ],
+        "investor_type": [
+          "accelerator"
+        ],
+        "num_exits": 15
+      }
+    },
+    {
+      "uuid": "30bcdd65-41ce-122b-8ef3-52a187ed4bf9",
+      "properties": {
+        "num_investments_funding_rounds": 464,
+        "identifier": {
+          "permalink": "3i-group",
+          "image_id": "v1472600080/rmo5eewabu265uvyyjk3.jpg",
+          "uuid": "30bcdd65-41ce-122b-8ef3-52a187ed4bf9",
+          "entity_def_id": "organization",
+          "value": "3i Group"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 5438,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "banking",
+            "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+            "value": "Banking"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "information-technology-dbca",
+            "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+            "value": "Information Technology"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "infrastructure",
+            "uuid": "9fe4b692-8586-3baa-84a4-9ccf4d6eb0fa",
+            "value": "Infrastructure"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm"
+        ],
+        "num_exits": 183
+      }
+    },
+    {
+      "uuid": "089e2f4e-5b16-b5ef-8834-3a40302de5ac",
+      "properties": {
+        "num_investments_funding_rounds": 462,
+        "identifier": {
+          "permalink": "gaing",
+          "image_id": "zrn6sg8o3c00jvrw2add",
+          "uuid": "089e2f4e-5b16-b5ef-8834-3a40302de5ac",
+          "entity_def_id": "organization",
+          "value": "Gaingels"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed",
+          "venture"
+        ],
+        "rank_principal_investor": 196,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "business-development",
+            "uuid": "1fe278ea-e441-01b9-30db-6c301c0d6fd1",
+            "value": "Business Development"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "lgbt",
+            "uuid": "d3b85d88-e16d-1a5a-c357-4c18df0ed60a",
+            "value": "LGBT"
+          }
+        ],
+        "investor_type": [
+          "syndicate",
+          "venture_capital"
+        ],
+        "num_exits": 16
+      }
+    },
+    {
+      "uuid": "e7442a98-a043-dd5c-5def-ebcc56fb78ce",
+      "properties": {
+        "num_investments_funding_rounds": 462,
+        "identifier": {
+          "permalink": "initialized-capital",
+          "image_id": "bobvdviltiovvm3rge0j",
+          "uuid": "e7442a98-a043-dd5c-5def-ebcc56fb78ce",
+          "entity_def_id": "organization",
+          "value": "Initialized Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 475,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "impact-investing",
+            "uuid": "1f843ff1-4a47-c956-aa2a-cc8d290da90f",
+            "value": "Impact Investing"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "software",
+            "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+            "value": "Software"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 78
+      }
+    },
+    {
+      "uuid": "04850d4f-10e8-1f2f-e54a-2b9ceae952d5",
+      "properties": {
+        "num_investments_funding_rounds": 460,
+        "identifier": {
+          "permalink": "qualcomm-ventures",
+          "image_id": "syhzdpctw33nlpks9mza",
+          "uuid": "04850d4f-10e8-1f2f-e54a-2b9ceae952d5",
+          "entity_def_id": "organization",
+          "value": "Qualcomm Ventures"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 826,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "business-development",
+            "uuid": "1fe278ea-e441-01b9-30db-6c301c0d6fd1",
+            "value": "Business Development"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "corporate_venture_capital"
+        ],
+        "num_exits": 118
+      }
+    },
+    {
+      "uuid": "eb47c77c-d53c-73bb-724c-e6b80c3b13c1",
+      "properties": {
+        "num_investments_funding_rounds": 457,
+        "identifier": {
+          "permalink": "eight-roads-ventures",
+          "image_id": "crz1flmsw5anmqmo84og",
+          "uuid": "eb47c77c-d53c-73bb-724c-e6b80c3b13c1",
+          "entity_def_id": "organization",
+          "value": "Eight Roads Ventures"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "venture"
+        ],
+        "rank_principal_investor": 4150,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "consumer",
+            "uuid": "2357ca1d-601d-eb18-c0f1-146d91d7aeae",
+            "value": "Consumer"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "fintech-e067",
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 96
+      }
+    },
+    {
+      "uuid": "6b43c7ec-5898-0866-af46-494775acb00f",
+      "properties": {
+        "num_investments_funding_rounds": 455,
+        "identifier": {
+          "permalink": "founder-collective",
+          "image_id": "v1397179537/a44614ef903df9d1c336bdc0438fac78.gif",
+          "uuid": "6b43c7ec-5898-0866-af46-494775acb00f",
+          "entity_def_id": "organization",
+          "value": "Founder Collective"
+        },
+        "investor_stage": [
+          "seed"
+        ],
+        "rank_principal_investor": 1136,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "hardware",
+            "uuid": "bf395a9a-618c-0264-3a2b-b18d8dc56fff",
+            "value": "Hardware"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "internet-of-things-ed3a",
+            "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+            "value": "Internet of Things"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "mobile",
+            "uuid": "e907cf2a-842d-8a30-a0b1-07d9de4a8178",
+            "value": "Mobile"
+          }
+        ],
+        "investor_type": [
+          "micro_vc"
+        ],
+        "num_exits": 125
+      }
+    },
+    {
+      "uuid": "f8c55c25-d1a1-9788-2159-3814c7f9276d",
+      "properties": {
+        "num_investments_funding_rounds": 454,
+        "identifier": {
+          "permalink": "internet-initiatives-develompent-fund-iidf",
+          "image_id": "v1397178711/7342af5f3368921373e604e9a92f7f2f.jpg",
+          "uuid": "f8c55c25-d1a1-9788-2159-3814c7f9276d",
+          "entity_def_id": "organization",
+          "value": "Internet Initiatives Development Fund (IIDF)"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 8896,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "cyber-security",
+            "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+            "value": "Cyber Security"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "fintech-e067",
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "internet-of-things-ed3a",
+            "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+            "value": "Internet of Things"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "accelerator",
+          "venture_capital"
+        ],
+        "num_exits": 3
+      }
+    },
+    {
+      "uuid": "8ea4648c-0b42-09a0-bfdd-2712317161b5",
+      "properties": {
+        "num_investments_funding_rounds": 446,
+        "identifier": {
+          "permalink": "vertex-ventures",
+          "image_id": "v1425937166/nctx0hoojgaz3rpv838m.png",
+          "uuid": "8ea4648c-0b42-09a0-bfdd-2712317161b5",
+          "entity_def_id": "organization",
+          "value": "Vertex Ventures"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 525,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 87
+      }
+    },
+    {
+      "uuid": "20980b3c-5627-7ed1-6eca-8f111c65b652",
+      "properties": {
+        "num_investments_funding_rounds": 446,
+        "identifier": {
+          "permalink": "smbc-venture-capital",
+          "image_id": "v1397179450/39a1c0b24be268a50f4500709064bf66.jpg",
+          "uuid": "20980b3c-5627-7ed1-6eca-8f111c65b652",
+          "entity_def_id": "organization",
+          "value": "SMBC Venture Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 6012,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "investment_bank",
+          "venture_capital"
+        ],
+        "num_exits": 59
+      }
+    },
+    {
+      "uuid": "dcfb1ae3-35b1-0bf2-0b3d-595031ab4507",
+      "properties": {
+        "num_investments_funding_rounds": 444,
+        "identifier": {
+          "permalink": "data-collective",
+          "image_id": "jye7r4ijmt2jysjsak5g",
+          "uuid": "dcfb1ae3-35b1-0bf2-0b3d-595031ab4507",
+          "entity_def_id": "organization",
+          "value": "DCVC"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 2000,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "big-data",
+            "uuid": "c33728a5-de33-d0da-7bce-0e3c4383bc99",
+            "value": "Big Data"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "cyber-security",
+            "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+            "value": "Cyber Security"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "enterprise-software",
+            "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+            "value": "Enterprise Software"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 94
+      }
+    },
+    {
+      "uuid": "cf253887-5eac-21a2-28d3-47db7311f7e9",
+      "properties": {
+        "num_investments_funding_rounds": 442,
+        "identifier": {
+          "permalink": "madrona-venture-group",
+          "image_id": "v1461021636/akx9xbkm2udyjkipigv2.jpg",
+          "uuid": "cf253887-5eac-21a2-28d3-47db7311f7e9",
+          "entity_def_id": "organization",
+          "value": "Madrona Venture Group"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 8172,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "angel-investment",
+            "uuid": "8e122314-2dde-8ccd-d250-548ee8f87c10",
+            "value": "Angel Investment"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 92
+      }
+    },
+    {
+      "uuid": "d300b754-8f03-f143-a083-09c355f716ba",
+      "properties": {
+        "num_investments_funding_rounds": 440,
+        "identifier": {
+          "permalink": "mitsubishi-ufj-capital",
+          "image_id": "v1397178696/feb0488900ee59d35f4eedc30872c61e.jpg",
+          "uuid": "d300b754-8f03-f143-a083-09c355f716ba",
+          "entity_def_id": "organization",
+          "value": "Mitsubishi UFJ Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 5635,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "biotechnology",
+            "uuid": "58842728-7ab9-5bd1-bb67-e8e55f6520a0",
+            "value": "Biotechnology"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "semiconductor",
+            "uuid": "20cd907a-d9d6-2916-8fe3-e2ea07ae915e",
+            "value": "Semiconductor"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 67
+      }
+    },
+    {
+      "uuid": "7468e6d9-c035-05d9-0133-f238f5308246",
+      "properties": {
+        "num_investments_funding_rounds": 433,
+        "identifier": {
+          "permalink": "temasek",
+          "image_id": "v1460863980/qizoi6ebvdhngxlxidyk.jpg",
+          "uuid": "7468e6d9-c035-05d9-0133-f238f5308246",
+          "entity_def_id": "organization",
+          "value": "Temasek Holdings"
+        },
+        "rank_principal_investor": 567,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "angel-investment",
+            "uuid": "8e122314-2dde-8ccd-d250-548ee8f87c10",
+            "value": "Angel Investment"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm"
+        ],
+        "num_exits": 102
+      }
+    },
+    {
+      "uuid": "5e1d0200-f444-6612-14dd-23369669c0e1",
+      "properties": {
+        "num_investments_funding_rounds": 433,
+        "identifier": {
+          "permalink": "social-starts",
+          "image_id": "v1427175873/wtr3arjeckje7tujmbp1.png",
+          "uuid": "5e1d0200-f444-6612-14dd-23369669c0e1",
+          "entity_def_id": "organization",
+          "value": "Social Starts"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 6067,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "business-development",
+            "uuid": "1fe278ea-e441-01b9-30db-6c301c0d6fd1",
+            "value": "Business Development"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "internet-of-things-ed3a",
+            "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+            "value": "Internet of Things"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "micro_vc",
+          "venture_capital"
+        ],
+        "num_exits": 59
+      }
+    },
+    {
+      "uuid": "8c2904bd-f9a1-0f41-87db-16fae614ad2d",
+      "properties": {
+        "num_investments_funding_rounds": 433,
+        "identifier": {
+          "permalink": "great-oaks-venture-capital",
+          "image_id": "v1416962317/o1tray2tvtrud7lvg5ky.png",
+          "uuid": "8c2904bd-f9a1-0f41-87db-16fae614ad2d",
+          "entity_def_id": "organization",
+          "value": "Great Oaks Venture Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 6455,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "micro_vc"
+        ],
+        "num_exits": 100
+      }
+    },
+    {
+      "uuid": "5b28f67a-8fd1-4f61-6fde-c5d92af09440",
+      "properties": {
+        "num_investments_funding_rounds": 433,
+        "identifier": {
+          "permalink": "ontario-centres-of-excellence",
+          "image_id": "v1397178698/aebf04ac51829ca50460bf6042e286cd.png",
+          "uuid": "5b28f67a-8fd1-4f61-6fde-c5d92af09440",
+          "entity_def_id": "organization",
+          "value": "Ontario Centres of Excellence"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "grant",
+          "seed"
+        ],
+        "rank_principal_investor": 6468,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "non-profit",
+            "uuid": "78816963-be25-bc89-e317-a1b894f472cb",
+            "value": "Non Profit"
+          }
+        ],
+        "investor_type": [
+          "angel_group"
+        ],
+        "num_exits": 43
+      }
+    },
+    {
+      "uuid": "8c5ff693-d08b-fce9-7829-236ebf2fe254",
+      "properties": {
+        "num_investments_funding_rounds": 432,
+        "identifier": {
+          "permalink": "warburg-pincus",
+          "image_id": "v1397178869/7c9d2e0ab2e1d753b382907e36d6019b.png",
+          "uuid": "8c5ff693-d08b-fce9-7829-236ebf2fe254",
+          "entity_def_id": "organization",
+          "value": "Warburg Pincus"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 141,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm"
+        ],
+        "num_exits": 131
+      }
+    },
+    {
+      "uuid": "796e4250-e66a-1c7b-6ccf-5a4fbd3b1936",
+      "properties": {
+        "num_investments_funding_rounds": 427,
+        "identifier": {
+          "permalink": "crosslink-capital",
+          "image_id": "ydzufqwlb5lewetz03wd",
+          "uuid": "796e4250-e66a-1c7b-6ccf-5a4fbd3b1936",
+          "entity_def_id": "organization",
+          "value": "Crosslink Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 1267,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "enterprise-software",
+            "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+            "value": "Enterprise Software"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "it-infrastructure",
+            "uuid": "37fdfb55-c4c7-e30c-279e-06b79f0d4c85",
+            "value": "IT Infrastructure"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 96
+      }
+    },
+    {
+      "uuid": "3eb9d040-1487-8d0e-4db8-72ec93ce32a5",
+      "properties": {
+        "num_investments_funding_rounds": 425,
+        "identifier": {
+          "permalink": "interwest-partners",
+          "image_id": "v1461013786/cwzv8iihbjxnmjbwqo15.png",
+          "uuid": "3eb9d040-1487-8d0e-4db8-72ec93ce32a5",
+          "entity_def_id": "organization",
+          "value": "InterWest Partners"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture"
+        ],
+        "rank_principal_investor": 8912,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 121
+      }
+    },
+    {
+      "uuid": "4e735dd7-c7c5-f189-370c-67bfb8e413dd",
+      "properties": {
+        "num_investments_funding_rounds": 418,
+        "identifier": {
+          "permalink": "north-bridge-venture-partners",
+          "image_id": "v1419446057/eyta0g8klwvewiggnpjn.jpg",
+          "uuid": "4e735dd7-c7c5-f189-370c-67bfb8e413dd",
+          "entity_def_id": "organization",
+          "value": "North Bridge Venture Partners & Growth Equity"
+        },
+        "investor_stage": [
+          "debt",
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 6633,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "impact-investing",
+            "uuid": "1f843ff1-4a47-c956-aa2a-cc8d290da90f",
+            "value": "Impact Investing"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "media-and-entertainment",
+            "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+            "value": "Media and Entertainment"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 111
+      }
+    },
+    {
+      "uuid": "440cca37-786e-6808-1085-b5524c33e875",
+      "properties": {
+        "num_investments_funding_rounds": 416,
+        "identifier": {
+          "permalink": "summit-partners",
+          "image_id": "b5osubflizqc7ljtrnoc",
+          "uuid": "440cca37-786e-6808-1085-b5524c33e875",
+          "entity_def_id": "organization",
+          "value": "Summit Partners"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "grant",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 1603,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "business-development",
+            "uuid": "1fe278ea-e441-01b9-30db-6c301c0d6fd1",
+            "value": "Business Development"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm",
+          "venture_capital"
+        ],
+        "num_exits": 257
+      }
+    },
+    {
+      "uuid": "c71a2ce5-aab4-8f6c-8d4d-091fd702af60",
+      "properties": {
+        "num_investments_funding_rounds": 415,
+        "identifier": {
+          "permalink": "idinvest-partners",
+          "image_id": "tkrp3h3su9sabcwmfhuo",
+          "uuid": "c71a2ce5-aab4-8f6c-8d4d-091fd702af60",
+          "entity_def_id": "organization",
+          "value": "Idinvest Partners"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 7383,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm"
+        ],
+        "num_exits": 113
+      }
+    },
+    {
+      "uuid": "de03c4eb-3e08-16aa-b1db-ad0711e845e1",
+      "properties": {
+        "num_investments_funding_rounds": 414,
+        "identifier": {
+          "permalink": "acequia-capital",
+          "image_id": "v1455130609/nhjbzsofmokkosqiuz4j.png",
+          "uuid": "de03c4eb-3e08-16aa-b1db-ad0711e845e1",
+          "entity_def_id": "organization",
+          "value": "Acequia Capital (AceCap)"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 1484,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "advice",
+            "uuid": "c9461eef-9ba2-cb92-0d05-2d2d5f85141c",
+            "value": "Advice"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "micro_vc"
+        ],
+        "num_exits": 40
+      }
+    },
+    {
+      "uuid": "24540ba2-35b0-a757-f75e-87565c50692e",
+      "properties": {
+        "num_investments_funding_rounds": 413,
+        "identifier": {
+          "permalink": "shunwei-china-internet-fund",
+          "image_id": "avzng2vc59cgnuhx76al",
+          "uuid": "24540ba2-35b0-a757-f75e-87565c50692e",
+          "entity_def_id": "organization",
+          "value": "Shunwei Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 947,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 29
+      }
+    },
+    {
+      "uuid": "b765a7e1-742a-e938-a0f2-329f66a011e4",
+      "properties": {
+        "num_investments_funding_rounds": 413,
+        "identifier": {
+          "permalink": "social-capital",
+          "image_id": "slr7uyml9gxcspmmcgtn",
+          "uuid": "b765a7e1-742a-e938-a0f2-329f66a011e4",
+          "entity_def_id": "organization",
+          "value": "Social Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "post_ipo",
+          "seed"
+        ],
+        "rank_principal_investor": 8325,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 76
+      }
+    },
+    {
+      "uuid": "fb8d57c4-eb30-d2e3-ac69-b62cc0f27bbf",
+      "properties": {
+        "num_investments_funding_rounds": 411,
+        "identifier": {
+          "permalink": "arch-venture-partners",
+          "image_id": "gtpq5b3xkdpxc09fkqo1",
+          "uuid": "fb8d57c4-eb30-d2e3-ac69-b62cc0f27bbf",
+          "entity_def_id": "organization",
+          "value": "ARCH Venture Partners"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed",
+          "venture"
+        ],
+        "rank_principal_investor": 1843,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "biotechnology",
+            "uuid": "58842728-7ab9-5bd1-bb67-e8e55f6520a0",
+            "value": "Biotechnology"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "health-diagnostics",
+            "uuid": "8c1b0c58-4cc6-5d0a-0208-f656f91e4c82",
+            "value": "Health Diagnostics"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "life-science",
+            "uuid": "9b58eb8a-89e7-b238-a1eb-5b9766cc4b3a",
+            "value": "Life Science"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "pharmaceutical",
+            "uuid": "0ae5c1be-64b1-a9fe-6c76-076285d2380f",
+            "value": "Pharmaceutical"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 98
+      }
+    },
+    {
+      "uuid": "62426ec0-be52-3f79-8adb-405de209755d",
+      "properties": {
+        "num_investments_funding_rounds": 410,
+        "identifier": {
+          "permalink": "headlinevc",
+          "image_id": "jpmy9nnrraooecexqtrr",
+          "uuid": "62426ec0-be52-3f79-8adb-405de209755d",
+          "entity_def_id": "organization",
+          "value": "Headline"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed",
+          "venture"
+        ],
+        "rank_principal_investor": 890,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 69
+      }
+    },
+    {
+      "uuid": "46de5ad9-edfe-a1ed-95a1-d92f45bf7da0",
+      "properties": {
+        "num_investments_funding_rounds": 408,
+        "identifier": {
+          "permalink": "global-brain-corporation",
+          "image_id": "vi5jc7ssglnph5dxon9m",
+          "uuid": "46de5ad9-edfe-a1ed-95a1-d92f45bf7da0",
+          "entity_def_id": "organization",
+          "value": "Global Brain Corporation"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 3984,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "angel-investment",
+            "uuid": "8e122314-2dde-8ccd-d250-548ee8f87c10",
+            "value": "Angel Investment"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 72
+      }
+    },
+    {
+      "uuid": "ccaf0719-ae27-65ac-89ac-c9cc88baac20",
+      "properties": {
+        "num_investments_funding_rounds": 407,
+        "identifier": {
+          "permalink": "pitchpalace",
+          "image_id": "v1467265688/zzcnxjgcz70mbfw68rx5.png",
+          "uuid": "ccaf0719-ae27-65ac-89ac-c9cc88baac20",
+          "entity_def_id": "organization",
+          "value": "Pitch@Palace"
+        },
+        "investor_stage": [
+          "non_equity_assistance"
+        ],
+        "rank_principal_investor": 12050,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "social-entrepreneurship",
+            "uuid": "4056544b-0bef-a056-46a9-e2cf4f7d85dd",
+            "value": "Social Entrepreneurship"
+          }
+        ],
+        "investor_type": [
+          "entrepreneurship_program"
+        ],
+        "num_exits": 23
+      }
+    },
+    {
+      "uuid": "9bdae0c0-7eb4-c3d3-08eb-7014b093d938",
+      "properties": {
+        "num_investments_funding_rounds": 401,
+        "identifier": {
+          "permalink": "newchip",
+          "image_id": "idq4jxxnouhxfzugjp2r",
+          "uuid": "9bdae0c0-7eb4-c3d3-08eb-7014b093d938",
+          "entity_def_id": "organization",
+          "value": "Newchip"
+        },
+        "rank_principal_investor": 4665,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "retail",
+            "uuid": "b65acba5-b299-3990-6390-8be3e3833a07",
+            "value": "Retail"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "software",
+            "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+            "value": "Software"
+          }
+        ],
+        "investor_type": [
+          "accelerator"
+        ],
+        "num_exits": 3
+      }
+    },
+    {
+      "uuid": "36feed26-9375-138b-3eef-e1e00faa858f",
+      "properties": {
+        "num_investments_funding_rounds": 400,
+        "identifier": {
+          "permalink": "oak-investment-partners",
+          "image_id": "uh4o4alulkhdwkwqfdhg",
+          "uuid": "36feed26-9375-138b-3eef-e1e00faa858f",
+          "entity_def_id": "organization",
+          "value": "Oak Investment Partners"
+        },
+        "investor_stage": [
+          "debt",
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 9955,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "angel-investment",
+            "uuid": "8e122314-2dde-8ccd-d250-548ee8f87c10",
+            "value": "Angel Investment"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm",
+          "venture_capital"
+        ],
+        "num_exits": 118
+      }
+    },
+    {
+      "uuid": "db9a455c-d51e-350a-d402-87bd0b1d46a5",
+      "properties": {
+        "num_investments_funding_rounds": 399,
+        "identifier": {
+          "permalink": "shasta-ventures",
+          "image_id": "jovdoixtzkeyfi0lrsqy",
+          "uuid": "db9a455c-d51e-350a-d402-87bd0b1d46a5",
+          "entity_def_id": "organization",
+          "value": "Shasta Ventures"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 1971,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 80
+      }
+    },
+    {
+      "uuid": "8b8d96f8-9dfe-b27a-8f57-7d266a051dc9",
+      "properties": {
+        "num_investments_funding_rounds": 395,
+        "identifier": {
+          "permalink": "general-atlantic",
+          "image_id": "v1399968592/d5u4nbnnazj4hthmced5.png",
+          "uuid": "8b8d96f8-9dfe-b27a-8f57-7d266a051dc9",
+          "entity_def_id": "organization",
+          "value": "General Atlantic"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity"
+        ],
+        "rank_principal_investor": 454,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm"
+        ],
+        "num_exits": 138
+      }
+    },
+    {
+      "uuid": "960eb982-a434-7554-0ca4-ac71108fd7c1",
+      "properties": {
+        "num_investments_funding_rounds": 393,
+        "identifier": {
+          "permalink": "austin-ventures",
+          "image_id": "v1397178471/cb5d81146ea6c815e61a4552a25c33f4.png",
+          "uuid": "960eb982-a434-7554-0ca4-ac71108fd7c1",
+          "entity_def_id": "organization",
+          "value": "Austin Ventures"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 8713,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "angel-investment",
+            "uuid": "8e122314-2dde-8ccd-d250-548ee8f87c10",
+            "value": "Angel Investment"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 116
+      }
+    },
+    {
+      "uuid": "c40189cd-74f7-6f4a-884b-e8d2e2862d86",
+      "properties": {
+        "num_investments_funding_rounds": 389,
+        "identifier": {
+          "permalink": "lux-capital",
+          "image_id": "v1462413868/x9fp5t2qhgtpr2xrihuu.png",
+          "uuid": "c40189cd-74f7-6f4a-884b-e8d2e2862d86",
+          "entity_def_id": "organization",
+          "value": "Lux Capital"
+        },
+        "investor_stage": [
+          "debt",
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed",
+          "venture"
+        ],
+        "rank_principal_investor": 278,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 46
+      }
+    },
+    {
+      "uuid": "b915e540-3377-6a2a-651e-6fd7c0787e26",
+      "properties": {
+        "num_investments_funding_rounds": 387,
+        "identifier": {
+          "permalink": "technology-crossover-ventures",
+          "image_id": "v1472274733/lswbu7h2mbts4brka2tj.png",
+          "uuid": "b915e540-3377-6a2a-651e-6fd7c0787e26",
+          "entity_def_id": "organization",
+          "value": "TCV"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "post_ipo",
+          "private_equity",
+          "secondary_market"
+        ],
+        "rank_principal_investor": 3074,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "business-development",
+            "uuid": "1fe278ea-e441-01b9-30db-6c301c0d6fd1",
+            "value": "Business Development"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm"
+        ],
+        "num_exits": 194
+      }
+    },
+    {
+      "uuid": "b5d0d7dd-cfc2-4c56-9ed4-847db73f8cee",
+      "properties": {
+        "num_investments_funding_rounds": 383,
+        "identifier": {
+          "permalink": "union-square-ventures",
+          "image_id": "m55dmtzuaacwuqc2lmug",
+          "uuid": "b5d0d7dd-cfc2-4c56-9ed4-847db73f8cee",
+          "entity_def_id": "organization",
+          "value": "Union Square Ventures"
+        },
+        "investor_stage": [
+          "debt",
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 573,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 54
+      }
+    },
+    {
+      "uuid": "b4bbe64e-c694-c762-66cb-1d4141c68093",
+      "properties": {
+        "num_investments_funding_rounds": 383,
+        "identifier": {
+          "permalink": "softtech-vc",
+          "image_id": "tdlhefvadcqlu2jyslgl",
+          "uuid": "b4bbe64e-c694-c762-66cb-1d4141c68093",
+          "entity_def_id": "organization",
+          "value": "Uncork Capital"
+        },
+        "investor_stage": [
+          "debt",
+          "early_stage_venture",
+          "late_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 2744,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "consumer",
+            "uuid": "2357ca1d-601d-eb18-c0f1-146d91d7aeae",
+            "value": "Consumer"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "marketplace-772d",
+            "uuid": "772da8fe-26d7-ea09-00ff-0fc7c8368b50",
+            "value": "Marketplace"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "saas-5c4e",
+            "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+            "value": "SaaS"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 96
+      }
+    },
+    {
+      "uuid": "754d8bc2-837e-c59a-3552-70f150b5858a",
+      "properties": {
+        "num_investments_funding_rounds": 382,
+        "identifier": {
+          "permalink": "dreamit-ventures",
+          "image_id": "qxhiaxeetcn0s24uoxig",
+          "uuid": "754d8bc2-837e-c59a-3552-70f150b5858a",
+          "entity_def_id": "organization",
+          "value": "Dreamit Ventures"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed",
+          "venture"
+        ],
+        "rank_principal_investor": 5692,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "cloud-security-db34",
+            "uuid": "db343f85-e0e3-807d-0517-742163265ebb",
+            "value": "Cloud Security"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "fraud-detection",
+            "uuid": "104eed8c-8bd5-5d13-e418-d698bf8a2bce",
+            "value": "Fraud Detection"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "health-care",
+            "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+            "value": "Health Care"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "identity-management",
+            "uuid": "24c5db84-02a2-6040-49cf-4314b287674f",
+            "value": "Identity Management"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "intrusion-detection",
+            "uuid": "e99ec6ff-09d2-ca21-caef-404b5b558181",
+            "value": "Intrusion Detection"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "network-security",
+            "uuid": "05ce5995-19d0-7c15-f4c7-19fb5c641c33",
+            "value": "Network Security"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "penetration-testing",
+            "uuid": "42707b93-949f-57f1-3b7e-8a6208e21efc",
+            "value": "Penetration Testing"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "physical-security",
+            "uuid": "c2a98b8f-f4bc-2a86-de72-ba85f41df990",
+            "value": "Physical Security"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "privacy-e1a4",
+            "uuid": "e1a4665e-8b66-feda-2432-39e907eceb6d",
+            "value": "Privacy"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "security-4c60",
+            "uuid": "4c6005cd-3476-35d2-ceab-b7d4f1d89e8b",
+            "value": "Security"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 41
+      }
+    },
+    {
+      "uuid": "2d296802-0ac2-3ee5-5d07-4e9383655a72",
+      "properties": {
+        "num_investments_funding_rounds": 381,
+        "identifier": {
+          "permalink": "launch-co",
+          "image_id": "xox3li8cwss5k6eowrip",
+          "uuid": "2d296802-0ac2-3ee5-5d07-4e9383655a72",
+          "entity_def_id": "organization",
+          "value": "LAUNCH"
+        },
+        "investor_stage": [
+          "convertible_note",
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 742,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "digital-media-2f47",
+            "uuid": "2f47ba93-33d3-61fe-de89-0fe8a4a8366b",
+            "value": "Digital Media"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "email-marketing",
+            "uuid": "f8146b4d-5d26-53a6-fea7-304e54b40e50",
+            "value": "Email Marketing"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "events",
+            "uuid": "d4a7bfe6-59ed-ae17-e043-1a7415745a0e",
+            "value": "Events"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "incubators",
+            "uuid": "99dcb039-c672-885e-6290-e0c72667e1f0",
+            "value": "Incubators"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "news",
+            "uuid": "db01a201-1e47-57b3-c3cc-a63eb94e3878",
+            "value": "News"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "accelerator",
+          "venture_capital"
+        ],
+        "num_exits": 38
+      }
+    },
+    {
+      "uuid": "b7c000b8-0b00-9936-7e3f-7954f1af2949",
+      "properties": {
+        "num_investments_funding_rounds": 381,
+        "identifier": {
+          "permalink": "flybridge-capital",
+          "image_id": "b8ph4o3xzczzkbkh9zdt",
+          "uuid": "b7c000b8-0b00-9936-7e3f-7954f1af2949",
+          "entity_def_id": "organization",
+          "value": "Flybridge"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 2347,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "impact-investing",
+            "uuid": "1f843ff1-4a47-c956-aa2a-cc8d290da90f",
+            "value": "Impact Investing"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 66
+      }
+    },
+    {
+      "uuid": "4a97f042-2d36-c628-178a-afbb0945a362",
+      "properties": {
+        "num_investments_funding_rounds": 380,
+        "identifier": {
+          "permalink": "sierra-ventures",
+          "image_id": "v1397178862/37565e478f19fda82f55b004062468d5.png",
+          "uuid": "4a97f042-2d36-c628-178a-afbb0945a362",
+          "entity_def_id": "organization",
+          "value": "Sierra Ventures"
+        },
+        "investor_stage": [
+          "early_stage_venture"
+        ],
+        "rank_principal_investor": 1355,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 85
+      }
+    },
+    {
+      "uuid": "c2f73e42-5085-8a82-8685-ea6a10176bc4",
+      "properties": {
+        "num_investments_funding_rounds": 380,
+        "identifier": {
+          "permalink": "almi-invest",
+          "image_id": "cuqvimsaoymbp4qju3e6",
+          "uuid": "c2f73e42-5085-8a82-8685-ea6a10176bc4",
+          "entity_def_id": "organization",
+          "value": "Almi Invest"
+        },
+        "investor_stage": [
+          "seed"
+        ],
+        "rank_principal_investor": 4398,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "government_office",
+          "venture_capital"
+        ],
+        "num_exits": 24
+      }
+    },
+    {
+      "uuid": "321aaefe-527e-a56e-85cd-641bd83cd866",
+      "properties": {
+        "num_investments_funding_rounds": 378,
+        "identifier": {
+          "permalink": "western-technology-investment",
+          "image_id": "v1397178875/9e0e0603cb293f725ae67f9a95ec0a09.png",
+          "uuid": "321aaefe-527e-a56e-85cd-641bd83cd866",
+          "entity_def_id": "organization",
+          "value": "Western Technology Investment"
+        },
+        "investor_stage": [
+          "debt",
+          "early_stage_venture",
+          "grant",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 3287,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 126
+      }
+    },
+    {
+      "uuid": "ff5d7781-999a-b2f7-097c-5d39998fd021",
+      "properties": {
+        "num_investments_funding_rounds": 376,
+        "identifier": {
+          "permalink": "startup-funding-club",
+          "image_id": "k7xb3bmiaq5lrpl1ciq9",
+          "uuid": "ff5d7781-999a-b2f7-097c-5d39998fd021",
+          "entity_def_id": "organization",
+          "value": "SFC Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "seed"
+        ],
+        "rank_principal_investor": 1330,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "angel_group",
+          "micro_vc"
+        ],
+        "num_exits": 8
+      }
+    },
+    {
+      "uuid": "3a1f2e3a-9a62-43f9-9261-5b58190532ce",
+      "properties": {
+        "num_investments_funding_rounds": 375,
+        "identifier": {
+          "permalink": "softbank-vision-fund",
+          "image_id": "n9xgoglsbwozr7fyorzk",
+          "uuid": "3a1f2e3a-9a62-43f9-9261-5b58190532ce",
+          "entity_def_id": "organization",
+          "value": "SoftBank Vision Fund"
+        },
+        "investor_stage": [
+          "late_stage_venture"
+        ],
+        "rank_principal_investor": 817,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "finance",
+            "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+            "value": "Finance"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm",
+          "venture_capital"
+        ],
+        "num_exits": 45
+      }
+    },
+    {
+      "uuid": "506b68d7-61d1-b593-0a0d-518cfa5ff5f3",
+      "properties": {
+        "num_investments_funding_rounds": 375,
+        "identifier": {
+          "permalink": "saif-partners",
+          "image_id": "v1397760812/6d1b5d29adb9a24cb481dccf1fba7876.png",
+          "uuid": "506b68d7-61d1-b593-0a0d-518cfa5ff5f3",
+          "entity_def_id": "organization",
+          "value": "SAIF Partners"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 3688,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "fintech-e067",
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          }
+        ],
+        "investor_type": [
+          "private_equity_firm"
+        ],
+        "num_exits": 56
+      }
+    },
+    {
+      "uuid": "75fea554-2985-a2f0-b825-a0e7ce7d9c86",
+      "properties": {
+        "num_investments_funding_rounds": 375,
+        "identifier": {
+          "permalink": "upfront-ventures",
+          "image_id": "ct0kgqmf6h6t46vkkyeo",
+          "uuid": "75fea554-2985-a2f0-b825-a0e7ce7d9c86",
+          "entity_def_id": "organization",
+          "value": "Upfront Ventures"
+        },
+        "investor_stage": [
+          "debt",
+          "early_stage_venture",
+          "late_stage_venture",
+          "private_equity",
+          "seed"
+        ],
+        "rank_principal_investor": 3752,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "agtech",
+            "uuid": "fa736a2c-3108-8e06-9adf-fb7a75744f5b",
+            "value": "AgTech"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "cyber-security",
+            "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+            "value": "Cyber Security"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "digital-media-2f47",
+            "uuid": "2f47ba93-33d3-61fe-de89-0fe8a4a8366b",
+            "value": "Digital Media"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "fintech-e067",
+            "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+            "value": "FinTech"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 73
+      }
+    },
+    {
+      "uuid": "4bf8459e-3f54-00f8-de29-0de0bde9fb56",
+      "properties": {
+        "num_investments_funding_rounds": 374,
+        "identifier": {
+          "permalink": "mizuho-capital",
+          "image_id": "a2jrdbehkf6hzadtb92a",
+          "uuid": "4bf8459e-3f54-00f8-de29-0de0bde9fb56",
+          "entity_def_id": "organization",
+          "value": "Mizuho Capital"
+        },
+        "investor_stage": [
+          "early_stage_venture",
+          "late_stage_venture"
+        ],
+        "rank_principal_investor": 6529,
+        "categories": [
+          {
+            "entity_def_id": "category",
+            "permalink": "biotechnology",
+            "uuid": "58842728-7ab9-5bd1-bb67-e8e55f6520a0",
+            "value": "Biotechnology"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "financial-services",
+            "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+            "value": "Financial Services"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "social-media",
+            "uuid": "5349a2f2-14d8-9727-c32a-19ebea5db78c",
+            "value": "Social Media"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "venture-capital-b37d",
+            "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+            "value": "Venture Capital"
+          },
+          {
+            "entity_def_id": "category",
+            "permalink": "womens",
+            "uuid": "69eb7729-14ce-2fb1-0998-ef15631f644b",
+            "value": "Women's"
+          }
+        ],
+        "investor_type": [
+          "venture_capital"
+        ],
+        "num_exits": 51
+      }
+    }
+  ]
+}
